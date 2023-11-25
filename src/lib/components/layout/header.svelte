@@ -11,9 +11,6 @@
 				<li>
 					<Navigation />
 				</li>
-				<li>
-					<div class="!bg-inherit p-0"><a href="/contact" class="btn btn-accent">Contact</a></div>
-				</li>
 			</ul>
 		</div>
 		<div class="absolute flex w-full pointer-events-none sm:hidden">
